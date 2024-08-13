@@ -2,6 +2,7 @@ version: 1
 extends:
   - ../morganton2024.yml
 project:
+  doi: 10.62329/NMYG6782
   id: morganton-2024-srinath
   title: 'An Analysis on Genomic Correlation for Gallstone Susceptibility'
   description: Gallstones, typically benign and harmless hardened deposits of digestive fluids, present in the gallbladder can cause severe painful complications if left untreated and can lead to removal surgery.
@@ -32,6 +33,9 @@ project:
       affiliation: ncssm
       roles:
         - editing
+  biblio:
+    first_page: 50
+    last_page: 58
   abbreviations:
     QTL: Quantitative Trait Loci
     LOD: Logarithm of the Odds

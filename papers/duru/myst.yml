@@ -2,6 +2,7 @@ version: 1
 extends:
   - ../morganton2024.yml
 project:
+  doi: 10.62329/TGMC9436
   id: morganton-2024-duru
   title: Using Bromelain Application to Inhibit the Spread of the Tobacco Mosaic Virus and Promote Tissue Regeneration in Red Bell Pepper Plants
   description: Plant viruses are a prevalent issue as they pose detrimental effects on agriculture, the food economy, and numerous individuals worldwide. One major effect of these viruses is tissue necrosis (breakdown of tissue), which plays a significant role in the decrease of crop yields. This study focused on the Tobacco Mosaic Virus, which infects over 350 plant species, causes necrotic symptoms, and exhibits a high transmission rate.
@@ -14,6 +15,9 @@ project:
     - name: Chisom Duru
       email: duru24c@ncssm.edu
       affiliation: ncssm
+  biblio:
+    first_page: 13
+    last_page: 17
   abbreviations:
     TMV: Tobacco Mosaic Virus
     PAL: phenylalanine ammonia lyase

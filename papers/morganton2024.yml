@@ -10,6 +10,7 @@ project:
   venue:
     title: The Morganton Scientific
     url: https://morgantonscientific.ncssm.edu
+    doi: 10.62329/TJYM8050
   abbreviations:
     NCSSM: North Carolina School of Science and Mathematics
   funding:
@@ -24,6 +25,10 @@ project:
       postal_code: 28655
       phone: 828-347-9100
       ror: https://ror.org/03zbydc22
+  biblio:
+    volume: 2023 - 2024
+    issue: 1
+    doi: 10.62329/YGNY9127
   exports:
     - id: typst-export
       format: typst

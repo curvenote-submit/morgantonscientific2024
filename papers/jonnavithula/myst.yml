@@ -2,6 +2,7 @@ version: 1
 extends:
   - ../morganton2024.yml
 project:
+  doi: 10.62329/VMRG0692
   id: morganton-2024-jonnavithula
   title: Inhibition of TORC1 Pathway in Saccharomyces Cerevisiae to Induce Autophagy Using Graphene Oxide
   description: Alzheimer’s Disease is a neurodegenerative brain disorder that affects close to six million people in the US alone. The disease is characterized by amyloid beta plaque buildup in the brain which limits proper communication and connection between neurons.
@@ -15,6 +16,9 @@ project:
     - name: Sesha Jonnavithula
       email: jonnavithula24s@ncssm.edu
       affiliation: ncssm
+  biblio:
+    first_page: 24
+    last_page: 28
   abbreviations:
     AD: Alzheimer's Disease
     GO: Graphene Oxide

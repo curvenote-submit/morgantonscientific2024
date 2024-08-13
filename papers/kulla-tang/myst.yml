@@ -2,6 +2,7 @@ version: 1
 extends:
   - ../morganton2024.yml
 project:
+  doi: 10.62329/HMRV6054
   id: morganton-2024-kulla-tang
   title: Assessing the Impact of Water, Algae, Alcohol, and Oil-Based Inks on the Biodegradability of Cellulose in Filter Paper
   description: This study evaluated the effects of several ink types on the biodegradability of cellulose. Paper is one of the main components of cellulosic waste, which is a major environmental problem worldwide. The effects of several ink types, such as alcohol-based, water-based, algae-based, and oil-based inks, on the degradation of cellulose were studied.
@@ -17,5 +18,8 @@ project:
     - name: Sophia Solomon
       email: tang25s@ncssm.edu
       affiliation: ncssm
+  biblio:
+    first_page: 29
+    last_page: 33
   abbreviations:
     VOC: Volatile organic compounds

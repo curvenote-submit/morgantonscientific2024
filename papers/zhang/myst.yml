@@ -2,6 +2,7 @@ version: 1
 extends:
   - ../morganton2024.yml
 project:
+  doi: 10.62329/YXRU8743
   id: morganton-2024-zhang
   title: 'Effect of Sulfakinin/Cholecystokinin-type Peptide ArSK/CCK1 on Satiety and Energy Metabolism of Asterias vulgaris'
   description: Depression is the persistent sadness or lack of interest in previously rewarding activities and has devastating effects on much of the global population. The neuropeptide cholecystokinin (CCK) controls satiety in humans and travels along a signaling pathway related to the brain-gut axis in humans.
@@ -14,6 +15,9 @@ project:
     - name: Caroline Zhang
       email: zhang24c1@ncssm.edu
       affiliation: ncssm
+  biblio:
+    first_page: 59
+    last_page: 63
   abbreviations:
     CCK: Choleocystokinin
     SKs: Sulfakinins
