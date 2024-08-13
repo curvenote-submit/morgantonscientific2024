@@ -37,11 +37,10 @@ project:
       phone: 828-347-9100
       ror: https://ror.org/03zbydc22
   biblio:
-    volume: 2023 - 2024
-    issue: 1
+    volume: 1
     doi: 10.62329/YGNY9127
   exports:
     - format: typst
       template: ../templates/ncssm-preface
       article: article.md
-      output: article.typ
+      output: article.pdf

@@ -12,7 +12,7 @@
     stroke: (top: 1pt + gray),
     inset: (top: 8pt, right: 2pt),
     [
-      The Morganton Scientific | Issue 1 | 2023 - 2024
+      The Morganton Scientific | Volume 1 | 2023 - 2024
       #h(1fr)
       #counter(page).display()
     ]
