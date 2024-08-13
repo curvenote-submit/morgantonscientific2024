@@ -4,25 +4,20 @@ abstract: |
   Supernova remnants (SNRs) and pulsars (PSRs) are highly related phenomena: Both can be produced from the same cosmic explosion. NGC 1952 and B0531+21, or the Crab SNR and PSR, are a verified pair. This research uses two strategies to estimate the ages of young SNRs and evaluates their reliability. The first strategy relies on the remnant’s expansion rate and radius to determine a convergence date. We operated the Green Bank Observatory 20-meter radio telescope in high-resolution mode to obtain spectra over a high-pass filter at a central frequency of 1420 MHz. While the data depicted a clear 21 cm hydrogen line, the Doppler calculation resulted in a meager expansion rate, which we found inadequate for subsequent age calculations. Second, due to the pulsar’s gradual loss of rotational energy over time, its period and period derivatives allowed us to extrapolate a formation date. We adjusted the telescope to low resolution at 1395 MHz. Age determinations reveal stages in SNR life cycles and support or disprove SNR-PSR associations. Several factors, including background radio interference, could impact the spectrum scans. However, the pulsar data produced an actual age within 50 years of the supernova's verified explosion, confirming this method’s relative accuracy.
 ---
 
-```{figure} images/Figure_1.jpeg
-:name: Figure_1
-:align: center
-
-An optical image of the NGC 1952 taken by the Hubble Space Telescope in 2005. The central glow highlights the pulsar.
-```
-
-+++ { "part": "first_page" }
 ## Age Determination of NGC 1952 and PSR B0531+21 Using Radio Observations
 
 Supernova remnants (SNRs) have been astronomical phenomena of interest since ancient times due to their brilliance in the visible spectrum. SNR events are evidenced in the artifacts of early civilizations. Records are believed to have begun in 185 C.E. Common type II supernovae occur due to the discontinuation of fusion in massive stars’ iron or nickel cores. However, in type III1 supernovae, the atomic nuclei of oxygen-neon-magnesium cores capture electrons. Both processes drive stellar collapse because of imbalances between gravity and pressure. Protons and electrons meld, forming a small, dense star supported by neutron degeneracy (more massive stars continue to collapse into black holes). Finally, this process produces a shock wave that expands inward and outward–expelling an array of gas and dust in the interstellar medium. Pulsars (PSRs), a form of a neutron star, rotate at extremely high velocities. Although they conserve much of their angular momentum, their periods gradually decline. Pulsars are detectable in gamma, x-ray, ultraviolet, or radio wavelengths due to the emission of synchrotron radiation from their magnetic poles.
 
 A PSR’s characteristic age can be deduced from its period and derivative. The characteristic age assumes significant reductions in the initial period and an absence of magnetic field decay. Its accuracy indicates the relevance of these characteristics. The actual age, meanwhile, uses a pulsar’s braking magnitude and reveals whether multiple sources affect its spin-down.
 
-The Crab Nebula, a remnant of a supernova and a type III plerion located within the constellation Taurus, and its associated pulsar are the subjects of this research. Age determinations assist historians in connecting SNRs to Chinese records of “guest stars.” However, we focus on the Crab because of sufficient evidence from the year it was first observed, proving the accuracy of our results. Additionally, ages confirm pulsar associations: A pulsar may gradually drift from a remnant’s center [@condon_essential_2017]. We compare
+The Crab Nebula, a remnant of a supernova and a type III plerion located within the constellation Taurus, and its associated pulsar are the subjects of this research. Age determinations assist historians in connecting SNRs to Chinese records of “guest stars.” However, we focus on the Crab because of sufficient evidence from the year it was first observed, proving the accuracy of our results. Additionally, ages confirm pulsar associations: A pulsar may gradually drift from a remnant’s center [@condon_essential_2017]. We compare{raw:typst}`#set page(columns: 2, margin: (x: 1.5cm, y: 2cm),);`two methods in their effective determination of the Crab SNR’s age: The first utilizes the remnant’s expansion, and the second relies on the spin properties of its pulsar.
 
-+++
+```{figure} images/Figure_1.jpeg
+:name: Figure_1
+:align: center
 
-two methods in their effective determination of the Crab SNR’s age: The first utilizes the remnant’s expansion, and the second relies on the spin properties of its pulsar.
+An optical image of the NGC 1952 taken by the Hubble Space Telescope in 2005. The central glow highlights the pulsar.
+```
 
 ## Methods
 
