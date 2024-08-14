@@ -34,3 +34,7 @@ project:
     MAE: Mean Absolute Error
     GCN: Graph Convolutional Network
     MLP: Multi-Layer Perceptron
+site:
+  actions:
+    - title: pdf
+      url: article.pdf
