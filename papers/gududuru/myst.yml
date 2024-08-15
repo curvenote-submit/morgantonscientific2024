@@ -2,6 +2,7 @@ version: 1
 extends:
   - ../morganton2024.yml
 project:
+  doi: 10.62329/MKCP1330
   id: morganton-2024-gududuru
   title: A Novel Approach to Inhibit MAP2K1 Overexpression Present in Melorheostosis Utilizing Moringa oleifera Extracts
   description: Melorheostosis is a rare bone disorder characterized by a mutation in the MAP2K1 gene in the MAPK signaling pathways, overproducing MEK1 protein, resulting in abnormal, flowing bone growth. Treatment and diagnosis options are limited; therefore, this experiment explores the use of Moringa oleifera, a promising natural product, as a potential treatment option for melorheostosis.
@@ -25,6 +26,9 @@ project:
         - Visualization
         - writing
         - editing
+  biblio:
+    first_page: 18
+    last_page: 23
   abbreviations:
     CCK: Choleocystokinin
     SKs: Sulfakinins

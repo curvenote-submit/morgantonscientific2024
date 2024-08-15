@@ -2,6 +2,7 @@ version: 1
 extends:
   - ../morganton2024.yml
 project:
+  doi: 10.62329/GKJR4572
   id: morganton-2024-sihorwala
   title: 'AQINet: A multimodal deep convolutional neural network to predict Air Quality Index via satellite imagery and meteorological data'
   description: Air pollution is a pressing ecological issue with significant impacts on both public health and the environment. Poor air quality is a major contributor to respiratory diseases and is linked to millions of deaths annually, but many countries cannot afford air monitoring equipment. This lack of data makes it difficult to assess the health and environmental risks resulting from pollutant exposure.
@@ -16,6 +17,9 @@ project:
       affiliation: ncssm
       roles:
         - writing
+  biblio:
+    first_page: 45
+    last_page: 49
   abbreviations:
     EPA: Environmental Protection Agency
     AQI: Air Quality Index

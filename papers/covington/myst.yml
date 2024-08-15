@@ -2,6 +2,7 @@ version: 1
 extends:
   - ../morganton2024.yml
 project:
+  doi: 10.62329/CRJT4211
   id: morganton-2024-covington
   title: Age Determination of NGC 1952 and PSR B0531+21 Using Radio Observations
   description: Supernova remnants and pulsars are highly related phenomena, both can be produced from the same cosmic explosion. This research uses two strategies to estimate the ages of young supernova remnants and evaluates their reliability.
@@ -26,6 +27,9 @@ project:
         - Visualization
         - writing
         - editing
+  biblio:
+    first_page: 9
+    last_page: 12
   abbreviations:
     SNRs: Supernova remnants
     PSRs: Pulsars
