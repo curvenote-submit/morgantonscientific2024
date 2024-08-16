@@ -66,23 +66,14 @@ Alignment of leaf samples with microscope
 
 ## ImageJ Software Analysis 
 
-To obtain numerical data regarding the amount of leaf damage produced, the software ImageJ was utilized. The images of the damaged leaves were first inputted into the software and were outlined to calculate the total leaf area. The color threshold settings were then changed to adjust the hue, saturation, and brightness levels to highlight the diseased regions of the leaves [@ImageJ]. Lastly, the total leaf area and diseased area values were obtained in pixels and used to determine the percent tissue damage. 
-
-```{figure} images/figure05.png
-:label: ImageJ
-:alt: Importing image file into ImageJ Software
-:align: center
-
-Importing image file into ImageJ Software
-```
+To obtain numerical data regarding the amount of leaf damage produced, the software ImageJ was utilized. The images of the damaged leaves were first inputted into the software and were outlined to calculate the total leaf area. The color threshold settings were then changed to adjust the hue, saturation, and brightness levels to highlight the diseased regions of the leaves [@color_threshold]. Lastly, the total leaf area and diseased area values were obtained in pixels and used to determine the percent tissue damage.
 
 ```{figure} images/figure06.png
 :label: color_threshold
 :alt: color threshold settings
 :align: center
 
-Adjustment of color threshold settings (i.e. hue, 
-saturation, and brightness) to highlight tissue damage 
+Adjustment of color threshold settings (i.e. hue, saturation, and brightness) to highlight tissue damage 
 ```
 
 ## Phenylalanine Ammonia Lyase (PAL) Assay 
