@@ -4,7 +4,7 @@ abstract: |
   Supernova remnants (SNRs) and pulsars (PSRs) are highly related phenomena: Both can be produced from the same cosmic explosion. NGC 1952 and B0531+21, or the Crab SNR and PSR, are a verified pair. This research uses two strategies to estimate the ages of young SNRs and evaluates their reliability. The first strategy relies on the remnant’s expansion rate and radius to determine a convergence date. We operated the Green Bank Observatory 20-meter radio telescope in high-resolution mode to obtain spectra over a high-pass filter at a central frequency of 1420 MHz. While the data depicted a clear 21 cm hydrogen line, the Doppler calculation resulted in a meager expansion rate, which we found inadequate for subsequent age calculations. Second, due to the pulsar’s gradual loss of rotational energy over time, its period and period derivatives allowed us to extrapolate a formation date. We adjusted the telescope to low resolution at 1395 MHz. Age determinations reveal stages in SNR life cycles and support or disprove SNR-PSR associations. Several factors, including background radio interference, could impact the spectrum scans. However, the pulsar data produced an actual age within 50 years of the supernova's verified explosion, confirming this method’s relative accuracy.
 ---
 
-## Age Determination of NGC 1952 and PSR B0531+21 Using Radio Observations
+## Introduction
 
 Supernova remnants (SNRs) have been astronomical phenomena of interest since ancient times due to their brilliance in the visible spectrum. SNR events are evidenced in the artifacts of early civilizations. Records are believed to have begun in 185 C.E. Common type II supernovae occur due to the discontinuation of fusion in massive stars’ iron or nickel cores. However, in type III1 supernovae, the atomic nuclei of oxygen-neon-magnesium cores capture electrons. Both processes drive stellar collapse because of imbalances between gravity and pressure. Protons and electrons meld, forming a small, dense star supported by neutron degeneracy (more massive stars continue to collapse into black holes). Finally, this process produces a shock wave that expands inward and outward–expelling an array of gas and dust in the interstellar medium. Pulsars (PSRs), a form of a neutron star, rotate at extremely high velocities. Although they conserve much of their angular momentum, their periods gradually decline. Pulsars are detectable in gamma, x-ray, ultraviolet, or radio wavelengths due to the emission of synchrotron radiation from their magnetic poles.
 
@@ -95,7 +95,7 @@ A differentiated and rearranged form of Equation @Equation_4, which describes th
 ## Results
 ### SNR Rate of Expression
 
-The Crab remnant is composed primarily of hydrogen gas. Neutral hydrogen produces the 21 cm line, which is evident as a sharp emission feature around 1420 MHz [@Figure_1]. The 21 cm undergoes slight dispersion in energy and quickly passes through the Earth's atmosphere, making it observable with little interference. The averages of the spectral features’ minima, 1420.16 MHz and 1420.67 MHz, resulted in a total expansion velocity of 108 km/s.
+The Crab remnant is composed primarily of hydrogen gas. Neutral hydrogen produces the 21 cm line, which is evident as a sharp emission feature around 1420 MHz [@Figure_2]. The 21 cm undergoes slight dispersion in energy and quickly passes through the Earth's atmosphere, making it observable with little interference. The averages of the spectral features’ minima, 1420.16 MHz and 1420.67 MHz, resulted in a total expansion velocity of 108 km/s.
 
 However, the data may have been skewed by various factors. For example, it is possible that the sharp peak was produced by background sources and not the composition of the remnant itself. The Crab SNR has a relatively small angular size (4-8 arcmin) compared with the telescope’s wide field of view. We did not produce further scans due to these significant uncertainties, nor did we carry out subsequent age calculations. @yang_evolution_2015 estimate that the velocities of most shell features range approximately between 1260-1700 km/s. “Daisy” telescope scans process the sky surrounding an object, allowing the observer to discern radio-emitting sources within a set radius. We may implement this method in future trials to recognize sources of error.
 
@@ -109,14 +109,13 @@ A spectrum scan from observing run 1 displaying the linearly polarized component
 
 ### PSR Period, Braking, and Age
 
-The pulse profile (top left of @Figure_2) represents the period produced from folded data and reveals recurring signals. The three measurements resulted in an average period of 0.0338149930 seconds. Thus, with the February 15, 1982 record of $0.0332676584$ seconds, we found the period derivative to equal $4. 1855 \cdot 10^{-13} ss^{-1}$.
+The pulse profile (top left of @Figure_3) represents the period produced from folded data and reveals recurring signals. The three measurements resulted in an average period of 0.0338149930 seconds. Thus, with the February 15, 1982 record of $0.0332676584$ seconds, we found the period derivative to equal $4. 1855 \cdot 10^{-13} ss^{-1}$.
 
 ```{figure} images/Figure_3.jpeg
 :name: Figure_3
 :align: center
 
 A pulsar dataset (compiled by Green Bank into a Prepfold Plot) depicting a regular, well-defined signal from observing run 3.
-
 ```
 
 #### Characteristic Age
