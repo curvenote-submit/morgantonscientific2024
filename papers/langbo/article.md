@@ -36,12 +36,12 @@ It is important to recognize the difference between the usage of these services 
 
 To comprehend the economic nuances, it’s imperative to dissect the factors influencing the cost-effectiveness of air ambulance services. One factor is the magnitude of costs incurred by the treatment of trauma in any setting, a leading cause of years of life lost, amounting to 406 billion dollars per year [@delgado_cost-effectiveness_2013].
 
-The study by @michaels_helicopter_2019 contributes further insights by reviewing the National Trauma Data Bank for outcomes in transferred trauma patients transported by helicopter or ground ambulance. Despite the higher costs and limitations of helicopter transport, patients transferred by air show improved survival rates. Logistic regression adjusted for confounders indicates a 57.0 percent lower likelihood of death for helicopter-transported trauma patients [@michaels_helicopter_2019].
+The study by @michaels_helicopter_2019 contributes further insights by reviewing the National Trauma Data Bank for outcomes in transferred trauma patients transported by helicopter or ground ambulance. Despite the higher costs and limitations of helicopter transport, patients transferred by air show improved survival rates. Logistic regression adjusted for confounders indicates a 57 percent lower likelihood of death for helicopter-transported trauma patients [@michaels_helicopter_2019].
 
 ## Analysis of Cost Effectiveness Studies
 
 Analyzing cost-effectiveness studies sheds light on the balance between the economic viability
-of air ambulance services and their life-saving potential. @delgado_cost-effectiveness_2013 emphasize the need for a mortality reduction threshold of fifteen percent, indicating that the economic justification for helicopter EMS hinges on achieving this improvement in patient outcomes. The results of Michaels analysis, on a first glance, appear to meet this minimum adjustment of fifteen percent in mortality rates.
+of air ambulance services and their life-saving potential. @delgado_cost-effectiveness_2013 emphasize the need for a mortality reduction threshold of 15 percent, indicating that the economic justification for helicopter EMS hinges on achieving this improvement in patient outcomes. The results of Michaels analysis, on a first glance, appear to meet this minimum adjustment of fifteen percent in mortality rates.
 
 This analysis underscores the intricacies involved in assessing the cost-effectiveness of air ambulance services. It’s not merely about comparing the direct costs but understanding the broader economic impact of trauma on families, EMS, and our broader healthcare system.
 
