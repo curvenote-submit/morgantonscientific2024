@@ -23,7 +23,7 @@ Moringa leaves were collected in Mecklenburg County, North Carolina. The samples
 ### Preparation of Leaf Extract
 Leaves were frozen at least 24 hours before the procedure. Using an oven, the leaves were heated at 50°C for 2 hours and left to dry overnight at room temperature. 20g of dried leaves were crushed using a coffee grinder until they became a fine powder. This fine powder was then extracted at room temperature utilizing a sequence of three solvents in increasing polarity: hexane, methanol, and water. 200 mL of each solvent was used, and each solvent was extracted for 2 and a half hours. After each solvent was extracted for this interval, they were each filtered and evaporated in vacuo. 0.7g of crude extract was gained. The experiment was repeated 2 times to obtain a total of 2.1g of evaporated leaf extract. This mass was then dissolved in 50 mL of bottled spring water. 
 
-```{figure} https://i.ibb.co/fHH3frx/ashmith-image1.png
+```{figure} images/ashmith-image1.png
 :label: leaf_preparation
 
 Preparation of Crude Leaf Extract Using Rotary Evaporator
@@ -50,7 +50,7 @@ Using an oven, the seeds were heated at 50°C for 3 hours and continued to dry o
 | Seed Extract | 10 mg/mL |
 :::
 
-```{figure} https://i.ibb.co/YR4vt98/ashmith-image2-png.png
+```{figure} images/ashmith-image2.png
 :label: fruit_fly_sample
 
 Fruit Fly Sample
@@ -111,7 +111,7 @@ The Nanodrop protein concentrations fluctuate randomly due to the fact that this
 
 After the gel has run, a blotting sandwich created with blotting paper, filter pads, a nitrocellulose membrane paper, and the gel is placed inside of the Tetra-Cell to transfer the protein bands from the gel to the nitrocellulose paper so that antibodies can be added at a later step. 
 
-```{figure} https://i.ibb.co/LprGsxB/ashmith-image3.png
+```{figure} images/ashmith-image3.png
 :label: tetra_cell
 
 Image of Tetra Cell
