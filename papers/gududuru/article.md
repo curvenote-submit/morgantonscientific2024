@@ -80,9 +80,9 @@ After the flies had fed on their food either containing or lacking extract for a
 | Leaf Samples  | Protein Concentration (mg/mL) |  Seed Samples | Protein Concentration (mg/mL)
 |   ---     |    ---    | ---     |    ---    |
 | Control 1 | 21.103 |Control 1 | 29.712 |
-| Control 2 |  31.376 | Control 2 | 35.04 |
+| Control 2 |  31.376 | Control 2 | 35.040 |
 | 2 mg/mL   | 27.034   | 2 mg/mL   | 31.724   |
-| 2 mg/mL   | 33.66   |2 mg/mL   | 23.211   |
+| 2 mg/mL   | 33.660   |2 mg/mL   | 23.211   |
 | 5 mg/mL   | 23.846   |5 mg/mL   | 32.728   |
 | 5 mg/mL   | 29.838   |5 mg/mL   | 29.087  |
 | 10 mg/mL  | 32.763 |10 mg/mL  | 32.539  |
