@@ -27,8 +27,8 @@ project:
         - writing
         - editing
   biblio:
-    first_page: 4
-    last_page: 8
+    first_page: 5
+    last_page: 9
   abbreviations:
     NMR: Nuclear Magnetic Resonance
     MAE: Mean Absolute Error

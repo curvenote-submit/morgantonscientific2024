@@ -1,0 +1,27 @@
+version: 1
+project:
+  id: morganton-2024-vol-1
+  title: Morganton Scientific - Volume 1
+  authors:
+    - name: Bianca Chan
+      affiliation: ncssm
+    - name: Kovida Vupputuri
+      affiliation: ncssm
+    - name: Lara Dincer
+      affiliation: ncssm
+    - name: Tanvi Sharma
+      affiliation: ncssm
+    - name: Rachel Joel
+      affiliation: ncssm
+  doi: 10.62329/YGNY9127 # Matches Volume DOI
+  downloads:
+    - title: Download Full PDF
+      format: pdf
+      url: ../morganton2024.pdf
+      filename: morganton2024.pdf
+  exports:
+    - format: typst
+      template: ../templates/ncssm-preface
+      article: article.md
+      output: article.pdf
+extends: volume.yml
